@@ -379,6 +379,9 @@ footer{
         justify-content: start;
         
     }
+    .cake_all{
+        display: block;
+    }
     .cake_one{
         margin-bottom: 0.5em;
     }
